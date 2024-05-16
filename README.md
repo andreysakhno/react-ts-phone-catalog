@@ -5,7 +5,7 @@
 
 ## Description
 
-The "React and TypeScript Phone catalog" project is an interactive catalog of products including mobile phones, tablets, and accessories. Its main functionality includes displaying products, allowing users to add them to the cart and favorites list, viewing product details, sorting,search, pagination.
+The "React and TypeScript Phone Catalog" project is an interactive catalog of products including mobile phones, tablets, and accessories. Its main functionality includes displaying products, allowing users to add them to the cart and favorites list, viewing product details, sorting, searching, and pagination.
 
 ## Technologies Used
 
